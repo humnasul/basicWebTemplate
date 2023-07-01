@@ -7,3 +7,9 @@ html {
   display: flex;
   justify-content: space-between;
 }
+
+.buttons2 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10%;
+}
